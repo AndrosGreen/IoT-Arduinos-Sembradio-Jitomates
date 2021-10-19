@@ -1,3 +1,18 @@
 .texto-centrado {
     text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+.principal {
+    display: flex;
+}
+
+.card {
+    margin-right: 2rem;
+}
+
+.grafica {
+    align-items: center;
+    justify-content: center;
 }
